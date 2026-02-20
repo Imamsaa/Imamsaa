@@ -19,7 +19,7 @@
 
 ```bash
 $ whoami
-> imam — Full Stack Developer
+> imamsaa — Full Stack Developer
 $ cat about.txt
 > Building scalable web apps from frontend to backend.
 > Passionate about clean code, creative UI, and fast systems.
@@ -57,23 +57,6 @@ $ cat about.txt
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 System Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imamsaa&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamsaa&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=imamsaa&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
 
 </div>
 
